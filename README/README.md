@@ -4,4 +4,9 @@
 #### The page requires that you input your date of birth and gender and the application will calculate the actual day of your birth and give you back an Akan Name
 ## Technologies Used
 #### Use of HTML for a basic webpage and the use of JavaScript and CSS for styling. The HTML uses a form format for putting in the birth and gender inputs.
+## Support and Contact details
+#### For any queries contact me on <link hristlifeshiri@gmail.com>
+### License 
+#### MIT License
+#### COPYRIGHT (c) 2020  (by Andrew Muchiri)
 
