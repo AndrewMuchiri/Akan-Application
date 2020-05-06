@@ -5,8 +5,9 @@
 ## Technologies Used
 #### Use of HTML for a basic webpage and the use of JavaScript and CSS for styling. The HTML uses a form format for putting in the birth and gender inputs.
 ## Support and Contact details
-#### For any queries contact me on <link hristlifeshiri@gmail.com>
+#### For any queries contact me on <link christlifeshiri@gmail.com>
 ### License 
 #### MIT License
 #### COPYRIGHT (c) 2020  (by Andrew Muchiri)
+#### link to github pages
 
